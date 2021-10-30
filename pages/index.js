@@ -6,6 +6,7 @@ import MediumCard from '../components/MediumCard';
 import LargeCard from '../components/LargeCard';
 import Footer from '../components/Footer';
 
+
 {/*importing banner component */ }
 
 export default function Home({ exploreData, cardsData }) {
@@ -15,11 +16,11 @@ export default function Home({ exploreData, cardsData }) {
         <title>Hrugved's Airbnb</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       {/*Header */}
-
       <Header />
-      {/*Banner */}
 
+      {/*Banner */}
       <Banner />
 
       {/*Main Section */}
