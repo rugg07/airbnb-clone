@@ -1,3 +1,7 @@
+# Project
+
+<img>![image](https://user-images.githubusercontent.com/86529890/147869995-00cdcd04-da66-42cd-baba-73832fafcd6a.png)</img>
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
